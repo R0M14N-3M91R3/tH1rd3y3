@@ -1,5 +1,5 @@
 ```diff
 +                                                                              0~Trust                       
-+                                                                     The Princible of security.                
++                                                                     The Principle of security.                
 +                                                                                                            
 ``` 
